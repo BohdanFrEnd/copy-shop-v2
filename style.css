@@ -213,11 +213,11 @@ input{
     height: 745px;
     padding-right: 10px;
     margin: 0 auto;
-    -webkit-overflow-scrolling: touch;
-    overflow: scroll;
     overflow-x: hidden;
     margin-top: 25px;
     position: relative;
+    -webkit-overflow-scrolling: touch;
+    overflow: scroll;
 }
 
 .result-copyshop__btn-inner {
@@ -541,9 +541,6 @@ input{
     .result-copyshop__btn-inner {
         height: auto;
     }
-
-
-
 }
 
 @media (max-width: 470px) {
