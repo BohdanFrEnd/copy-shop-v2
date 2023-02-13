@@ -478,10 +478,6 @@ input{
         width: 540px;
     }
 
-    /* .generator-form-item {
-        width: 100%;
-    } */
-
     .result-copyshop__wrapper {
         height: 400px;
     }
@@ -497,7 +493,7 @@ input{
     }
 
     .generator-form-item {
-        margin-left: 5%;
+        margin-left: 9%;
     }
 
     .result-copyshop__btn-inner {
@@ -515,13 +511,6 @@ input{
         height: 40px;
     }
 
-    /* 
-
-    .result-copyshop__btn {
-        position: absolute;
-        right: 0;
-        height: 92px;
-    } */
 }
 
 @media (max-width: 575px) {
@@ -664,9 +653,6 @@ input{
         width: 100%;
         margin-top: 20px;
     }
-
-
-
 
 }
 
