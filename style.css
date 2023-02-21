@@ -746,6 +746,7 @@ input{
     font-size: 12px;
     padding-left: 4px;
     padding-right: 18px;
+    z-index: 5;
 }
 
 .add-section-item__textarea {
