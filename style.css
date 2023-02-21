@@ -463,6 +463,11 @@ input{
         height: 550px;
     }
 
+    .result-copyshop__wrapper-border {
+        min-height: 550px;
+        height: auto;
+    }
+
     .result-copyshop__wrapper::-webkit-scrollbar {
         width: 5px;
     }
@@ -484,6 +489,11 @@ input{
 
     .result-copyshop__wrapper {
         height: 400px;
+    }
+
+    .result-copyshop__wrapper-border {
+        min-height: 400px;
+        height: auto;
     }
 
     .result-copyshop__wrapper-border {
